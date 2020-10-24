@@ -56,7 +56,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 ***
 
 ## Probability and Statistics
-* [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
+* [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘 Done
 * [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
 * [40 Statistics Interview Problems and Answers for Data Scientists](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) 📘
 * [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
